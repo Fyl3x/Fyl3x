@@ -30,7 +30,7 @@ I like reproducing papers end to end: theory first, hand-written code, honest ev
 
 **Foundations:** Stanford CS231n · Karpathy's Zero to Hero, including a GPT-2 (124M) reproduction · MIT 18.065 · optimizers from SGD to AdamW, written from scratch
 
-**Spoken:** English (C1) · French (C1) · German (learning)
+**Spoken:** English (C1) · French (C1)
 
 ---
 
